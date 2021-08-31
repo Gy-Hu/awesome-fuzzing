@@ -176,7 +176,7 @@ Security and Privacy (S&P), (iii) USENIX Security Symposium (USEC), and (iv) ACM
 - [The Art, Science, and Engineering of Fuzzing: A Survey, 2019 (TSE)](https://edmcman.github.io/papers/tse19.pdf)
 - [Automated Conformance Testing for JavaScript Engines via Deep Compiler Fuzzing, 2021 (PLDI)](https://dl.acm.org/doi/abs/10.1145/3453483.3454054)
 - [Typestate-Guided Fuzzer for Discovering Use-after-Free Vulnerabilities, 2020 (ICSE)](https://www.scedt.tees.ac.uk/s.qin/papers/icse2020-uafl.pdf)
-- [Template-based Android Inter Process Communication Fuzzing, 2020 (International Conference on Availability, Reliability and Security)](https://faui1-files.cs.fau.de/public/publications/Template_based_Android_Inter_Process_Communication_Fuzzing.pdf)
+- [Template-based Android Inter Process Communication Fuzzing, 2020 (ARES)](https://faui1-files.cs.fau.de/public/publications/Template_based_Android_Inter_Process_Communication_Fuzzing.pdf)
 - [DPIFuzz: A Differential Fuzzing Framework to Detect DPI Elusion Strategies for QUIC, 2020 (ACSAC)](https://publications.cispa.saarland/3220/1/DPIFuzz.pdf)
 - [AFL++: Combining Incremental Steps of Fuzzing Research, 2020 (WOOT)](https://www.usenix.org/system/files/woot20-paper-fioraldi.pdf)
 - [Parser-Directed Fuzzing, 2019 (PLDI)](https://pldi19.sigplan.org/track/pldi-2019-papers#)
