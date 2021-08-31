@@ -37,6 +37,10 @@ Security and Privacy (S&P), (iii) USENIX Security Symposium (USEC), and (iv) ACM
 
 
 ### The Network and Distributed System Security Symposium (NDSS)
+- [PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles, 2021](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6A-1_24096_paper.pdf)
+- [Reinforcement Learning-based Hierarchical Seed Scheduling for Greybox Fuzzing, 2021](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6A-4_24486_paper.pdf)
+- [WINNIE : Fuzzing Windows Applications with Harness Synthesis and Fast Cloning, 2021](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6A-3_24334_paper.pdf)
+- [Favocado:Fuzzing the Binding Code of JavaScript Engines Using Semantically Correct TestCases, 2021](https://sefcom.asu.edu/publications/favocado-ndss21.pdf)
 - [HFL: Hybrid Fuzzing on the Linux Kernel, 2020](https://www.unexploitable.systems/publication/kimhfl/)
 - [HotFuzz: Discovering Algorithmic Denial-of-Service Vulnerabilities Through Guided Micro-Fuzzing, 2020](https://www.researchgate.net/publication/339164746_HotFuzz_Discovering_Algorithmic_Denial-of-Service_Vulnerabilities_Through_Guided_Micro-Fuzzing)
 - [HYPER-CUBE: High-Dimensional Hypervisor Fuzzing, 2020](https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2020/02/07/Hyper-Cube-NDSS20.pdf)
@@ -57,6 +61,13 @@ Security and Privacy (S&P), (iii) USENIX Security Symposium (USEC), and (iv) ACM
 
 
 ### IEEE Symposium on Security and Privacy (IEEE S&P)
+- [StochFuzz: A New Solution for Binary-only Fuzzing, 2021](https://github.com/ZhangZhuoSJTU/StochFuzz)
+- [NtFuzz: Enabling Type-Aware Kernel Fuzzing on Windows with Static Binary Analysis, 2021](https://ieeexplore.ieee.org/document/9519448)
+- [One Engine to Fuzz ’em All: Generic Language Processor Testing with Semantic Validation, 2021](https://changochen.github.io/publication/polyglot_sp_2021_to_appear.pdf)
+- [DIANE: Identifying Fuzzing Triggers in Apps to Generate Under-constrained Inputs for IoT Devices, 2021](https://conand.me/publications/redini-diane-2021.pdf)
+- [DIFUZZRTL: Differential Fuzz Testing to Find CPU Bugs, 2021](https://lifeasageek.github.io/papers/jaewon-difuzzrtl.pdf)
+- [SAVIOR: Towards Bug-Driven Hybrid Testing, 2020](https://arxiv.org/pdf/1906.07327.pdf)
+- [RetroWrite: Statically Instrumenting COTS Binaries for Fuzzing and Sanitization, 2020](https://www.cs.purdue.edu/homes/dxu/pubs/SP20.pdf)
 - [Fuzzing JavaScript Engines with Aspect-preserving Mutation, 2020](https://jakkdu.github.io/pubs/2020/park:die.pdf)
 - [IJON: Exploring Deep State Spaces via Fuzzing, 2020](https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2020/02/27/IJON-Oakland20.pdf)
 - [Krace: Data Race Fuzzing for Kernel File Systems, 2020](https://www.cc.gatech.edu/~mxu80/pubs/xu:krace.pdf)
@@ -73,9 +84,15 @@ Security and Privacy (S&P), (iii) USENIX Security Symposium (USEC), and (iv) ACM
 - [Program-Adaptive Mutational Fuzzing, 2015](https://softsec.kaist.ac.kr/~sangkilc/papers/cha-oakland15.pdf)
 - [TaintScope: A checksum-aware directed fuzzing tool for automatic software vulnerability detection, 2010](https://ieeexplore.ieee.org/abstract/document/5504701)
 
-
-
 ### USENIX Security
+- [ICSFuzz: Manipulating I/Os and Repurposing Binary Code to Enable Instrumented Fuzzing in ICSControlApplications, 2021](https://www.usenix.org/system/files/sec21fall-tychalas.pdf)
+- [The Use of Likely Invariants as Feedback for Fuzzers, 2021](https://www.usenix.org/system/files/sec21-fioraldi.pdf)
+- [aPiCraft: Fuzz Driver Generation for Closed-source SDK Libraries, 2021](https://www.usenix.org/system/files/sec21-zhang-cen.pdf)
+- [Token-LevelFuzzing, 2021](https://www.usenix.org/system/files/sec21-salls.pdf)
+- [unifuzz: A Holistic and Pragmatic Metrics-Driven Platform for Evaluating Fuzzers, 2021](https://www.usenix.org/system/files/sec21summer_li-yuwei.pdf)
+- [Android SmartTVs Vulnerability Discovery via Log-Guided Fuzzing, 2021](https://www.usenix.org/system/files/sec21fall-aafer.pdf)
+- [syzvegas: Beating Kernel Fuzzing Odds with Reinforcement Learning, 2021](https://www.usenix.org/system/files/sec21-wang-daimeng.pdf)
+- [Agamotto: Accelerating Kernel Driver Fuzzing with Lightweight Virtual Machine Checkpoints, 2020](https://www.usenix.org/system/files/sec20-song.pdf)
 - [FANS: Fuzzing Android Native System Services via Automated Interface Analysis, 2020](https://www.usenix.org/conference/usenixsecurity20/presentation/liu)
 - [Analysis of DTLS Implementations Using Protocol State Fuzzing, 2020](https://www.usenix.org/conference/usenixsecurity20/presentation/fiterau-brostean)
 - [EcoFuzz: Adaptive Energy-Saving Greybox Fuzzing as a Variant of the Adversarial Multi-Armed Bandit, 2020](https://www.usenix.org/conference/usenixsecurity20/presentation/yue)
@@ -100,6 +117,8 @@ Security and Privacy (S&P), (iii) USENIX Security Symposium (USEC), and (iv) ACM
 
 
 ### ACM Conference on Computer and Communications Security (ACM CCS)
+- [Snipuzz: Black-box Fuzzing of IoT Firmware via Message Snippet Inference, 2021](https://arxiv.org/pdf/2105.05445.pdf)
+- [FREEDOM: Engineering a State-of-the-Art DOM Fuzzer, 2020](https://dl.acm.org/doi/abs/10.1145/3372297.3423340)
 - [Intriguer: Field-Level Constraint Solving for Hybrid Fuzzing, 2019](https://dl.acm.org/citation.cfm?id=3354249)
 - [Learning to Fuzz from Symbolic Execution with Application to Smart Contracts, 2019](https://files.sri.inf.ethz.ch/website/papers/ccs19-ilf.pdf)
 - [Matryoshka: fuzzing deeply nested branches, 2019](https://web.cs.ucdavis.edu/~hchen/paper/chen2019matryoshka.pdf)
@@ -121,9 +140,18 @@ Security and Privacy (S&P), (iii) USENIX Security Symposium (USEC), and (iv) ACM
 - [Grammar-based whitebox fuzzing, 2008](https://dl.acm.org/citation.cfm?id=1375607)
 - [Taint-based directed whitebox fuzzing, 2009](https://dl.acm.org/citation.cfm?id=1555061)
 
+### ArXiv (Fuzzing with Artificial Intelligence & Machine Learning, some interesting fuzzing topic, etc.)
 
-### ArXiv (Fuzzing with Artificial Intelligence & Machine Learning)
+- [Exposing Bugs in JavaScript Engines through Test Transplantation and Differential Testing, 2021 (with code)](https://arxiv.org/abs/2012.03759)
+- [FuzzSplore: Visualizing Feedback-Driven Fuzzing Techniques, 2021 (with code)](https://arxiv.org/pdf/2102.02527.pdf)
+- [AlphaFuzz: Evolutionary Mutation-based Fuzzing as Monte Carlo Tree Search, 2021](https://arxiv.org/pdf/2101.00612.pdf)
+- [Fuzzing Hardware Like Software, 2021](https://arxiv.org/pdf/2102.02308.pdf)
+- [HDR-Fuzz: Detecting Buffer Overruns using AddressSanitizer Instrumentation and Fuzzing, 2021](https://arxiv.org/pdf/2104.10466.pdf)
+- [QFuzz: Quantitative Fuzzing for Side Channels, 2021 (with code)](https://arxiv.org/pdf/2106.03346.pdf)
+- [CoCoFuzzing: Testing Neural Code Models with Coverage-Guided Fuzzing, 2021](https://arxiv.org/pdf/2106.09242.pdf)
+- [MTFuzz: Fuzzing with a Multi-task Neural Network, 2020 (with code)](https://arxiv.org/pdf/2005.12392.pdf)
 - [MEUZZ: Smart Seed Scheduling for Hybrid Fuzzing, 2020](https://arxiv.org/abs/2002.08568)
+- [Semantic Fuzzing with Zest, 2019](https://arxiv.org/pdf/1812.00078.pdf)
 - [A Review of Machine Learning Applications in Fuzzing, 2019](https://arxiv.org/abs/1906.11133)
 - [Evolutionary Fuzzing of Android OS Vendor System Services, 2019](https://arxiv.org/abs/1906.00621)
 - [MoonLight: Effective Fuzzing with Near-Optimal Corpus Distillation, 2019](https://arxiv.org/abs/1905.13055)
@@ -139,11 +167,23 @@ Security and Privacy (S&P), (iii) USENIX Security Symposium (USEC), and (iv) ACM
 - [Learn&Fuzz: Machine Learning for Input Fuzzing, 2017](https://arxiv.org/abs/1701.07232)
 - [Complementing Model Learning with Mutation-Based Fuzzing, 2016](https://arxiv.org/abs/1611.02429)
 
-### The others
-- [Ifuzzer: An evolutionary interpreter fuzzer using genetic programming, 2016](https://www.cs.vu.nl/~herbertb/download/papers/ifuzzer-esorics16.pdf)
-- [Hybrid fuzz testing: Discovering software bugs via fuzzing and symbolic execution, 2012](https://pdfs.semanticscholar.org/488a/b1e313f5109153f2c74e3b5d86d41e9b4b71.pdf)
-- [Call-Flow Aware API Fuzz Testing for Security of Windows Systems, 2008](https://www.computer.org/csdl/proceedings/iccsa/2008/3243/00/3243a019-abs.html)
-- [Feedback-directed random test generation, 2007](https://dl.acm.org/citation.cfm?id=1248841)
+### The others (Including PLDI, OOPSLA, ICSE, TSE, ISSTA etc.)
+
+- [Binary-level Directed Fuzzing for Use-After-Free Vulnerabilities, 2020 (TSE)](https://arxiv.org/pdf/2002.10751.pdf)
+- [MemLock: Memory Usage Guided Fuzzing, 2020 (ICSE)](https://wcventure.github.io/pdf/ICSE2020_MemLock.pdf)
+- [Magma: A Ground-Truth Fuzzing Benchmark, 2020 (ACM on Measurement and Analysis of Computing Systems)](https://hexhive.epfl.ch/magma/docs/preprint.pdf)
+- [FuZZan: Efficient Sanitizer Metadata Design for Fuzzing, 2020 (USENIX ATC)](http://nebelwelt.net/files/20ATC.pdf)
+- [The Art, Science, and Engineering of Fuzzing: A Survey, 2019 (TSE)](https://edmcman.github.io/papers/tse19.pdf)
+- [Automated Conformance Testing for JavaScript Engines via Deep Compiler Fuzzing, 2021 (PLDI)](https://dl.acm.org/doi/abs/10.1145/3453483.3454054)
+- [Typestate-Guided Fuzzer for Discovering Use-after-Free Vulnerabilities, 2020 (ICSE)](https://www.scedt.tees.ac.uk/s.qin/papers/icse2020-uafl.pdf)
+- [Template-based Android Inter Process Communication Fuzzing, 2020 (International Conference on Availability, Reliability and Security)](https://faui1-files.cs.fau.de/public/publications/Template_based_Android_Inter_Process_Communication_Fuzzing.pdf)
+- [DPIFuzz: A Differential Fuzzing Framework to Detect DPI Elusion Strategies for QUIC, 2020 (ACSAC)](https://publications.cispa.saarland/3220/1/DPIFuzz.pdf)
+- [AFL++: Combining Incremental Steps of Fuzzing Research, 2020 (WOOT)](https://www.usenix.org/system/files/woot20-paper-fioraldi.pdf)
+- [Parser-Directed Fuzzing, 2019 (PLDI)](https://pldi19.sigplan.org/track/pldi-2019-papers#)
+- [Ifuzzer: An evolutionary interpreter fuzzer using genetic programming, 2016 (ESORICS)](https://www.cs.vu.nl/~herbertb/download/papers/ifuzzer-esorics16.pdf)
+- [Hybrid fuzz testing: Discovering software bugs via fuzzing and symbolic execution, 2012 (School of Computer Science Carnegie Mellon University)](https://pdfs.semanticscholar.org/488a/b1e313f5109153f2c74e3b5d86d41e9b4b71.pdf)
+- [Call-Flow Aware API Fuzz Testing for Security of Windows Systems, 2008 (International Conference on Computational Sciences and Its Applications)](https://www.computer.org/csdl/proceedings/iccsa/2008/3243/00/3243a019-abs.html)
+- [Feedback-directed random test generation, 2007 (ICSE)](https://dl.acm.org/citation.cfm?id=1248841)
 
 
 
